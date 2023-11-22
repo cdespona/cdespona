@@ -16,7 +16,12 @@
       <img src="repositories.svg" alt="repo">
     </td>
     <td style="border: none; vertical-align: top;">
-      <img src="metrics.plugin.isocalendar.fullyear.svg" alt="calendar">
+      <img src="achievements.svg" alt="achievements">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+        <img src="metrics.plugin.isocalendar.fullyear.svg" alt="calendar">
       <img src="topics.svg" alt="topics">
     </td>
   </tr>
