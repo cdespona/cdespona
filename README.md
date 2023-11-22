@@ -10,19 +10,19 @@
 <table style="border-collapse: collapse; border: none;"> 
   <tbody>
   <tr style="border: none;">
-    <td style="border: none; vertical-align: top;">
+    <td colspan="2" style="border: none; vertical-align: top;">
       <img src="summary.svg" alt="summary">
       <img src="activity-community.svg" alt="act-comm">
       <img src="repositories.svg" alt="repo">
     </td>
-    <td style="border: none; vertical-align: top;">
-      <img src="achievements.svg" alt="achievements">
-    </td>
   </tr>
   <tr>
-    <td colspan="2">
-        <img src="metrics.plugin.isocalendar.fullyear.svg" alt="calendar">
+    <td style="border: none; vertical-align: top;">
+      <img src="metrics.plugin.isocalendar.fullyear.svg" alt="calendar">
       <img src="topics.svg" alt="topics">
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <img src="achievements.svg" alt="achievements">
     </td>
   </tr>
   </tbody>
