@@ -53,3 +53,18 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
+          plugin_languages_limit: 0
+          commits_authoring: cdespona, cdespona@gmail.com, carles.espona@holaluz.com, 36042331+cdespona@users.noreply.github.com
+      - name: plugin topics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          repositories: 200
+          repositories_affiliations: owner, collaborator
+          config_timezone: Europe/Madrid
+          filename: topics.svg
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 20
