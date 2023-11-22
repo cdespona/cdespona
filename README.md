@@ -15,6 +15,10 @@
       <img src="activity-community.svg" alt="act-comm">
       <img src="repositories.svg" alt="repo">
     </td>
+    <td style="border: none; vertical-align: top;">
+      <img src="metrics.plugin.isocalendar.fullyear.svg" alt="calendar">
+      <img src="topics.svg" alt="topics">
+    </td>
   </tr>
   </tbody>
 </table>
