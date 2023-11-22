@@ -54,6 +54,7 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
           plugin_languages_limit: 0
+          plugin_languages_sections: most-used, recently-used
           commits_authoring: cdespona, cdespona@gmail.com, carles.espona@holaluz.com, 36042331+cdespona@users.noreply.github.com
       - name: plugin topics
         uses: lowlighter/metrics@latest
