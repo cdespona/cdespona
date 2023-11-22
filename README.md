@@ -1,4 +1,4 @@
-![Header](Header.png)
+<img src="Header.png" alt="header">
 
 * 🔭 Staff Engineer @ [Holaluz](https://holaluz.com)
 * 🏡 Based @ [Barcelona](https://www.google.es/maps/place/Barcelona) 💜
