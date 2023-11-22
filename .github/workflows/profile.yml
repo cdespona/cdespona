@@ -55,3 +55,11 @@ jobs:
           plugin_languages_limit: 0
           plugin_languages_sections: most-used, recently-used
           commits_authoring: cdespona, cdespona@gmail.com, carles.espona@holaluz.com, 36042331+cdespona@users.noreply.github.com
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
