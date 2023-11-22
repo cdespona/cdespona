@@ -46,7 +46,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           repositories: 200
-          repositories_affiliations: owner, collaborator
+          repositories_affiliations: owner, collaborator, organization_member
           config_timezone: Europe/Madrid
           filename: languages.svg
           plugin_languages: yes
@@ -62,10 +62,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           repositories: 200
-          repositories_affiliations: owner, collaborator
+          repositories_affiliations: owner, collaborator, organization_member
           config_timezone: Europe/Madrid
           filename: topics.svg
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
           plugin_topics_limit: 20
+          commits_authoring: cdespona, cdespona@gmail.com, carles.espona@holaluz.com, 36042331+cdespona@users.noreply.github.com
