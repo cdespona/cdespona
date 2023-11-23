@@ -31,3 +31,6 @@
   </tbody>
 </table>
 
+#### Hobbies
+[![MoxfieldBadge](https://img.shields.io/badge/MTG%20Commander-Cdespona-8A2BE2)](https://www.moxfield.com/users/Cdespona)
+[![DOTABadge](https://img.shields.io/badge/DOTA2-GRV-red)](https://es.dotabuff.com/players/63807915)
