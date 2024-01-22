@@ -1,4 +1,4 @@
-<img src="Header.png" alt="header">
+<img src="header.png" alt="header">
 
 [![Linkedin Badge](https://img.shields.io/badge/-cdespona-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carles-david-espona-casas-56219b11/)](https://www.linkedin.com/in/carles-david-espona-casas-56219b11/)
 [![Twitter Badge](https://img.shields.io/badge/-@__cdespona-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CDEspona)](https://twitter.com/CDEspona)
