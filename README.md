@@ -28,6 +28,10 @@
       <img src="achievements.svg" alt="achievements">
     </td>
   </tr>
+  <tr>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+  </tr>
   </tbody>
 </table>
 
