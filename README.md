@@ -32,6 +32,79 @@
 </table>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 61.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 60 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3436 commits        ████████░░░░░░░░░░░░░░░░░   30.37 % 
+🌆 Daytime                7861 commits        █████████████████░░░░░░░░   69.47 % 
+🌃 Evening                18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1692 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Tuesday                  2021 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Wednesday                2053 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Thursday                 3086 commits        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Friday                   2463 commits        █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     19 repos            ████████░░░░░░░░░░░░░░░░░   33.93 % 
+HCL                      18 repos            ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Python                   10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Kotlin                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/cdespona/cdespona/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/01/2024 11:58:07 UTC
 <!--END_SECTION:waka-->
 
 #### Hobbies
