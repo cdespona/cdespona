@@ -32,7 +32,7 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,7 +112,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cdespona/cdespona/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2024 18:38:05 UTC
+ Last Updated on 18/02/2024 18:37:04 UTC
 <!--END_SECTION:waka-->
 
 #### Hobbies
