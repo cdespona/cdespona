@@ -32,6 +32,8 @@
 </table>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2023%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -44,6 +46,45 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10468 commits       █████████░░░░░░░░░░░░░░░░   35.65 % 
+🌆 Daytime                18724 commits       ████████████████░░░░░░░░░   63.76 % 
+🌃 Evening                173 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   4698 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Tuesday                  6937 commits        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Wednesday                5141 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Thursday                 6682 commits        ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Friday                   5907 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -61,7 +102,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cdespona/cdespona/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 23:04:24 UTC
+ Last Updated on 15/04/2024 18:40:08 UTC
 <!--END_SECTION:waka-->
 
 #### Hobbies
