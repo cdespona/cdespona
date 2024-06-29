@@ -38,7 +38,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 78.2 kB Used in GitHub's Storage 
+> 📦 78.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 292 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,7 +110,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cdespona/cdespona/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2024 18:43:16 UTC
+ Last Updated on 29/06/2024 18:40:13 UTC
 <!--END_SECTION:waka-->
 
 #### Hobbies
