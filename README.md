@@ -32,13 +32,13 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 89.2 kB Used in GitHub's Storage 
+> 📦 89.3 kB Used in GitHub's Storage 
  > 
 > 🏆 992 Contributions in the Year 2024
  > 
@@ -110,7 +110,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cdespona/cdespona/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2024 18:50:09 UTC
+ Last Updated on 24/11/2024 18:49:34 UTC
 <!--END_SECTION:waka-->
 
 #### Hobbies
