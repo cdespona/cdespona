@@ -38,9 +38,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 91.4 kB Used in GitHub's Storage 
- > 
-> 🏆 1,049 Contributions in the Year 2024
+> 📦 91.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,21 +73,16 @@ Sunday                   15 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   1 hr 2 mins         ██████████████████████░░░   86.06 % 
-Terraform                8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-HCL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-holaluz-attraction-non-tr1 hr 12 mins        █████████████████████████   99.59 % 
-holaluz-platform-sandbox-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +102,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cdespona/cdespona/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2024 18:50:19 UTC
+ Last Updated on 28/12/2024 18:49:10 UTC
 <!--END_SECTION:waka-->
 
 #### Hobbies
