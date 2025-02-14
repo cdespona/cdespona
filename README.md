@@ -38,7 +38,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 112.4 kB Used in GitHub's Storage 
+> 📦 111.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 48 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,7 +104,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cdespona/cdespona/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 18:41:56 UTC
+ Last Updated on 14/02/2025 18:40:57 UTC
 <!--END_SECTION:waka-->
 
 #### Hobbies
