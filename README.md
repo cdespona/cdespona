@@ -40,8 +40,6 @@
 
 > 📦 112.2 kB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -92,8 +90,8 @@ No Activity Tracked This Week
 ```text
 Java                     7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
 Kotlin                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
@@ -104,7 +102,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cdespona/cdespona/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2025 18:33:18 UTC
+ Last Updated on 09/03/2025 18:34:01 UTC
 <!--END_SECTION:waka-->
 
 #### Hobbies
