@@ -32,11 +32,15 @@
 </table>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2040%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 116.2 kB Used in GitHub's Storage 
+> 📦 116.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 48 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,11 +90,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
-Kotlin                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Java                     6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+Kotlin                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -100,7 +104,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cdespona/cdespona/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 18:44:12 UTC
+ Last Updated on 28/03/2025 18:45:52 UTC
 <!--END_SECTION:waka-->
 
 #### Hobbies
