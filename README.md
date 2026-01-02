@@ -32,8 +32,6 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2040%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -104,7 +102,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cdespona/cdespona/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:42:25 UTC
+ Last Updated on 02/01/2026 18:42:00 UTC
 <!--END_SECTION:waka-->
 
 #### Hobbies
