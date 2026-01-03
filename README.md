@@ -36,7 +36,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 122.4 kB Used in GitHub's Storage 
+> 📦 122.5 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -46,45 +46,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                86 commits          ██████████░░░░░░░░░░░░░░░   40.38 % 
-🌆 Daytime                111 commits         █████████████░░░░░░░░░░░░   52.11 % 
-🌃 Evening                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   44 commits          █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Tuesday                  36 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Wednesday                62 commits          ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-Thursday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Friday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Saturday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Sunday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -102,7 +63,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cdespona/cdespona/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 18:42:00 UTC
+ Last Updated on 03/01/2026 18:41:01 UTC
 <!--END_SECTION:waka-->
 
 #### Hobbies
