@@ -32,61 +32,20 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2042%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 138.9 kB Used in GitHub's Storage 
+> 📦 139.1 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2026
+> 🏆 22 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                91 commits          ██████████░░░░░░░░░░░░░░░   39.74 % 
-🌆 Daytime                121 commits         █████████████░░░░░░░░░░░░   52.84 % 
-🌃 Evening                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   45 commits          █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Tuesday                  37 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Wednesday                65 commits          ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Friday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Saturday                 30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Sunday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -104,7 +63,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cdespona/cdespona/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 20:11:35 UTC
+ Last Updated on 15/05/2026 19:57:44 UTC
 <!--END_SECTION:waka-->
 
 #### Hobbies
